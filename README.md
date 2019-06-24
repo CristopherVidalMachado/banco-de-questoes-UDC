@@ -6,3 +6,5 @@
 - Este é um repositório público, commits com insultos serão ignorados e removidos.
 - Utilizar o modelo de organização proposto.
 
+
+
